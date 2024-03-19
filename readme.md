@@ -1,5 +1,3 @@
-# AZZOUZ Kahina CORBIN Aurelien 
-
 ![LOGO](./screens/logo.png)
 
 ## Information : 
@@ -13,7 +11,7 @@ ___
 ![SCREENSHOT](./screens/convex1.png)
 
 # Sommaire :
-- [Enveloppe Convexe - AZZOUZ Kahina CORBIN Aurelien ](#azzouz-kahina-corbin-aurelien)
+- [Enveloppe Convexe]
   - [Manuel utilisateur](#manuel-utilisateur)
     - [Compilation](#compilation)
     - [Arguments optionnels](#arguments-optionnels)
@@ -134,5 +132,4 @@ Les fonctionnalités sont :
 ## Conclusion
 
 Globalement, nous avons bien aimé le sujet Bien qu'il nous a vachement occuper pendant la majorite des vacances . (le sujet etais bien claire bien que nous avons mal compris la partie qui concerne le pdf et ce qu'on devrais y ecrire ). La partie graphique nous permettant de visualiser le resultat est satisfaisante bien que la complexite du probleme ne dois pas etre opptimale en vue de l'utilisation du tableau de points bien que nous avions trouver cela necessaire .
-___
-AZZOUZ Kahina CORBIN Aurelien                   
+___                  
